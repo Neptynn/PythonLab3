@@ -1,6 +1,6 @@
 from Translator.Gtrans import *
 
-# LanguageList("file", "hello")
+LanguageList("screen", "hello")
 
 print("Введіть текст для перекладу:")
 inputText = input()
