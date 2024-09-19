@@ -1,0 +1,109 @@
+Код мови   Назва мови           Переклад                                
+------------------------------------------------------------------------
+af         afrikaans            hallo                                   
+sq         albanian             përshëndetje                            
+am         amharic              ሀሎ                                      
+ar         arabic               مرحبًا                                  
+hy         armenian             բարև                                    
+az         azerbaijani          salam                                   
+eu         basque               kaixo                                   
+be         belarusian           прывітанне                              
+bn         bengali              হ্যালো                                  
+bs         bosnian              zdravo                                  
+bg         bulgarian            здравей                                 
+ca         catalan              hola                                    
+ceb        cebuano              kumusta                                 
+ny         chichewa             Moni                                    
+zh-cn      chinese (simplified) 你好                                      
+zh-tw      chinese (traditional) 你好                                      
+co         corsican             Bonghjornu                              
+hr         croatian             Zdravo                                  
+cs         czech                Ahoj                                    
+da         danish               hej                                     
+nl         dutch                Hallo                                   
+en         english              hello                                   
+eo         esperanto            saluton                                 
+et         estonian             tere                                    
+tl         filipino             hello                                   
+fi         finnish              Hei                                     
+fr         french               Bonjour                                 
+fy         frisian              Hallo                                   
+gl         galician             ola                                     
+ka         georgian             გამარჯობა                               
+de         german               Hallo                                   
+el         greek                Γειά σου                                
+gu         gujarati             હેલો                                    
+ht         haitian creole       bonjou                                  
+ha         hausa                sannu                                   
+haw        hawaiian             Aloha                                   
+iw         hebrew               שלום                                    
+he         hebrew               שלום                                    
+hi         hindi                नमस्ते                                  
+hmn        hmong                nyob zoo                                
+hu         hungarian            Helló                                   
+is         icelandic            halló                                   
+ig         igbo                 Nnọọ                                    
+id         indonesian           Halo                                    
+ga         irish                dia duit                                
+it         italian              Ciao                                    
+ja         japanese             こんにちは                                   
+jw         javanese             halo                                    
+kn         kannada              ನಮಸ್ಕಾರ                                 
+kk         kazakh               сәлем                                   
+km         khmer                សួស្តី                                  
+ko         korean               안녕하세요                                   
+ku         kurdish (kurmanji)   Slav                                    
+ky         kyrgyz               Салам                                   
+lo         lao                  ສະບາຍດີ                                 
+la         latin                salve                                   
+lv         latvian              sveiki                                  
+lt         lithuanian           sveiki                                  
+lb         luxembourgish        Hallo                                   
+mk         macedonian           здраво                                  
+mg         malagasy             Salama                                  
+ms         malay                hello                                   
+ml         malayalam            ഹലോ                                    
+mt         maltese              hello                                   
+mi         maori                kia ora                                 
+mr         marathi              नमस्कार                                 
+mn         mongolian            сайн уу                                 
+my         myanmar (burmese)    မင်္ဂလာပါ                               
+ne         nepali               नमस्कार                                 
+no         norwegian            hallo                                   
+or         odia                 ନମସ୍କାର                                 
+ps         pashto               سلام                                    
+fa         persian              سلام                                    
+pl         polish               Witam                                   
+pt         portuguese           olá                                     
+pa         punjabi              ਸਤ ਸ੍ਰੀ ਅਕਾਲ                            
+ro         romanian             Buna ziua                               
+ru         russian              привет                                  
+sm         samoan               talofa                                  
+gd         scots gaelic         Halò                                    
+sr         serbian              здраво                                  
+st         sesotho              Lumela                                  
+sn         shona                Mhoro                                   
+sd         sindhi               سلام                                    
+si         sinhala              ආයුබෝවන්                                
+sk         slovak               ahoj                                    
+sl         slovenian            zdravo                                  
+so         somali               hello                                   
+es         spanish              Hola                                    
+su         sundanese            Halo                                    
+sw         swahili              habari                                  
+sv         swedish              Hej                                     
+tg         tajik                Салом                                   
+ta         tamil                வணக்கம்                                 
+te         telugu               హలో                                     
+th         thai                 สวัสดี                                  
+tr         turkish              Merhaba                                 
+uk         ukrainian            привіт                                  
+ur         urdu                 ہیلو                                    
+ug         uyghur               ياخشىمۇسىز                              
+uz         uzbek                Salom                                   
+vi         vietnamese           Xin chào                                
+cy         welsh                helo                                    
+xh         xhosa                Mholo                                   
+yi         yiddish              העלא                                    
+yo         yoruba               Pẹlẹ o                                  
+zu         zulu                 Sawubona                                
